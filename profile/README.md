@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://hargile.com/_next/image?url=%2Fimages%2Fbrand%2Fbrand_large.png&w=1920&q=75" alt="HARGILE Logo" width="400"/>
-
 <br/><br/>
 
 # 🚀 HARGILE
